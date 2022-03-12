@@ -1,0 +1,11 @@
+Capacidade de uma máquina em simular a inteligencia humana.
+Capacidade de uma máquina em aprender.
+
+Ela se aplica a reconhecimentos de padrões simples e complexos,
+na classificação de variáveis diversas, na predição de estimativas futuras.
+
+MACHINE LEARNING.
+Subárea da inteligência artificial que se utiliza de regras matemáticas a fim 
+de reconhecer padrões em conjuntos de dados complexos.
+Pode ser dividida em Machine Learning Clássico e Deep Learning.
+
