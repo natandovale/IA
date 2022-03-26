@@ -9,3 +9,31 @@ Subárea da inteligência artificial que se utiliza de regras matemáticas a fim
 de reconhecer padrões em conjuntos de dados complexos.
 Pode ser dividida em Machine Learning Clássico e Deep Learning.
 
+Machine learning ou Aprendizado de máquina utiliza fórmulas estatísticas 
+e probabilisticas predefinidas para se obter um resultado específico, não possui
+camadas de interação.Indicado 
+para quantidades menores de dados.
+
+Deep Learning ou Aprendizado Profundo é um tipo de Machine Learning que utiliza redes 
+neurais em mais de uma camada de integração para relacionar dados e obter respostas sem
+fórmulas estatísticas e probabilisticas clássicas, simula as reações
+do cerébro humano.Considerada a verdadeira inteligencia Artificial.
+Indicado para grande quantidade de dados ou Big Data. 
+
+Grupos de Aprendizado.
+Classificação: Quando SABEMOS as categorias com as quais queremoos classificar
+Clusterização: Quando NÃO SABEMOS as categorias com as quais queremos classicar.
+Regressão: Quando queremos PREVER DADOS FUTUROS através de históricos passados.
+
+Aprendizado de Máquina.
+-Aprendizado Supervisionado: Aprende com dados de entrada e saída em uma estrutura organizada.
+Os dados de entrada e saída são preestabelecido.
+
+-Aprendizado não supervisionado (Aprendizado autônomo): Aprende com relações de semelhança em uma estrutura
+desordenada.Os dados de entrada são passados e ela retorna os dados de saída(não existe pergunta).Reconhece 
+um padrão.
+
+-Aprendizado por reforço: Aprende por meio de feedback.Os dados de entrada são passados e a IA da uma saída
+para analisarmos. Em seguida damos um feedback da saída e repete o processo, até a saída esteja satisfatória.
+
+
